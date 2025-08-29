@@ -13,8 +13,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         brightness: Brightness.dark,
-        backgroundColor: Colors.black,
-        scaffoldBackgroundColor: Colors.black,
+        backgroundColor: Colors.purple,
+        scaffoldBackgroundColor: Colors.purple,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
